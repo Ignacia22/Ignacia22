@@ -1,8 +1,13 @@
+<div align="center">
+<h1 align="center">Hola <img width="35" src="https://i.pinimg.com/originals/57/13/28/57132856a26238a8de821dbec2eaa642.gif">, Soy Ignacia</h1>
+<h4 align="center">Soy desarrolladora web full stack con especialización en front-end y formación en Diseño Web.</h4>
+</div>
+
 <img alt="about" src="https://files.oaiusercontent.com/file-PWLfxbHJWUJwtnL97h7VHC?se=2025-01-20T15%3A57%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D2b1ca4dc-7306-4a64-b4d1-c053c6d62fa0.webp&sig=utzc1tJC95taE5sXBN%2BBub77X2ssuq1K7hZbbMV4pmU%3D" width='1200' height='500' align="left"/>
 
-<h1>Hola 👋, Soy Maria Ignacia</h1>
 
-### 👨🏻‍💻 &nbsp;Sobre mí
+
+### 👩‍💻 &nbsp;Sobre mí
 
 💡 &nbsp;Como desarrolladora front-end, me apasiona transformar ideas creativas en experiencias web excepcionales. Tengo una sólida base en tecnologías como HTML, CSS, JavaScript, y frameworks modernos como React y Tailwind CSS, y estoy constantemente aprendiendo para mantenerme al día con las tendencias del desarrollo web.  
 
