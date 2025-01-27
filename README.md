@@ -3,7 +3,7 @@
 <h4 align="center">Soy desarrolladora web full stack con especialización en front-end y formación en Diseño Web.</h4>
 </div>
 
-<img alt="about" src="https://files.oaiusercontent.com/file-PWLfxbHJWUJwtnL97h7VHC?se=2025-01-20T15%3A57%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D2b1ca4dc-7306-4a64-b4d1-c053c6d62fa0.webp&sig=utzc1tJC95taE5sXBN%2BBub77X2ssuq1K7hZbbMV4pmU%3D" width='1200' height='500' align="left"/>
+<img alt="about" src="https://img.freepik.com/premium-photo/anime-girl-coding-night-with-city-view_1282444-140690.jpg" width='1200' height='600' align="left"/>
 
 
 
