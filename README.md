@@ -21,7 +21,7 @@
 
 ✉️ &nbsp;Puedes enviarme un correo a mfernandezpolanco@gmail.com o contactarme por mi número de celular: +569 824 02929 y responderé lo antes posible.  
 
-- 🔭 Actualmente estaba trabajando en el **diseño de proyecto de un complejo deportivo**
+- 🔭 Actualmente estaba trabajando en el **diseño y desarrollo de proyecto de un complejo deportivo**
 - 💬 Pregúntame sobre **Html, Css, Javascript, Next.js, React, TypeScript, Tailwind**
 - ⚡ Dato curioso **Me gustan los libros**
 
