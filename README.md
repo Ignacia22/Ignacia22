@@ -19,7 +19,7 @@
 
 💬 &nbsp;Si tienes un proyecto en mente o simplemente deseas conversar sobre desarrollo web, no dudes en contactarme.  
 
-✉️ &nbsp;Puedes enviarme un correo a mfernandezpolanco@gmail.com y responderé lo antes posible.  
+✉️ &nbsp;Puedes enviarme un correo a mfernandezpolanco@gmail.com o contactarme por mi número de celular: +569 824 02929 y responderé lo antes posible.  
 
 - 🔭 Actualmente estoy trabajando en el **diseño de proyecto de un complejo deportivo**
 - 💬 Pregúntame sobre **Html, Css, Javascript, Next.js, React, TypeScript, Tailwind**
