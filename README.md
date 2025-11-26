@@ -30,12 +30,12 @@
 
 ```yaml
 nombre: María Ignacia Fernández
-rol: Desarrolladora Web Full Stack
+rol: Desarrolladora y Diseñadora Frontend 
 especialización: Front-end & Diseño Web
 ubicación: Chile 🇨🇱
 contacto:
-  email: mfernandezpolanco@gmail.com
-  teléfono: +569 824 02929
+  -email: mfernandezpolanco@gmail.com
+  -teléfono: +569 824 02929
 ```
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee955a70b9c71.gif"/>
